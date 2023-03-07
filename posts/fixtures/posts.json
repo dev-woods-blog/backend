@@ -1,0 +1,28 @@
+[
+  {
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+      "categoryId": 1,
+      "title": "첫 번째 게시글",
+      "content": "Hello World Javascript",
+      "summary": "Hello World!!",
+      "thumbnail_image": "",
+      "created_at": "2023-01-30T11:57:54.603Z",
+      "updated_at": "2023-01-30T11:57:54.603Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 2,
+    "fields": {
+      "categoryId": 2,
+      "title": "두 번째 게시글",
+      "content": "Hello World Django",
+      "summary": "django",
+      "thumbnail_image": "",
+      "created_at": "2023-01-30T11:57:54.603Z",
+      "updated_at": "2023-01-30T11:57:54.603Z"
+    }
+  }
+]

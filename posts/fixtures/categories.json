@@ -1,0 +1,18 @@
+[
+  {
+    "model": "posts.category",
+    "pk": 1,
+    "fields": {
+      "parentId": 0,
+      "name": "javascript"
+    }
+  },
+  {
+    "model": "posts.category",
+    "pk": 2,
+    "fields": {
+      "parentId": 0,
+      "name": "react"
+    }
+  }
+]
